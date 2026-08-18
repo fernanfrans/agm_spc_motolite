@@ -1,2 +1,2 @@
 flask>=3.0.0
-databricks-sdk>=0.20.0
+databricks-connect>=15.4
