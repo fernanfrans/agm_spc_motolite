@@ -25,7 +25,7 @@ def query_sql(sql):
     response = w.statement_execution.execute_statement(
         warehouse_id=warehouse_id,
         statement=sql,
-        wait_timeout="120s",
+        wait_timeout="50s",
     )
     columns = [col.name for col in response.manifest.schema.columns]
     rows = []

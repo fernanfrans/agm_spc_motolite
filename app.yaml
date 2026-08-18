@@ -4,4 +4,4 @@ command:
 
 env:
   - name: DATABRICKS_WAREHOUSE_ID
-    value: "2d785e627e9d0888"
+    value: "c5ebc25a800d6268"
