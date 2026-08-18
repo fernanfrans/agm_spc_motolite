@@ -16,3 +16,4 @@ This repository contains the Statistical Process Control (SPC) application for A
 - Compression monitoring dashboard
 - Control limit calculations
 - Process capability analysis
+- Data-driven decision making
